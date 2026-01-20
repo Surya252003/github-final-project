@@ -1,3 +1,4 @@
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 ###Contributing### 
 
 Thank you for your interest in contributing to this project. We welcome contributions from the community and value collaboration conducted in a professional, respectful, and transparent manner.
